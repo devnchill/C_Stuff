@@ -1,0 +1,2 @@
+/*Inverted Right Half Pyramid
+ */
